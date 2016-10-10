@@ -1,2 +1,3 @@
-# 2016-LITA-OpenDataServices
-This talk will describe the building and scaling up of research data management services at NYU solely using open source tools and data for instruction and best practices recommendations.
+### Using Openness as Foundation for Research Data Management Services
+
+This talk will describe the building and scaling up of research data management services at NYU solely using open source tools and data for instruction and best practices recommendations. Through demonstrating the applicability of tools such as OpenRefine, the Open Science Framework, ReproZip, and languages such as Python and R in library instruction, classes for faculty, and online knowledge bases, our aim is to encourage researchers to consider the sustainability and interoperability of their research. Through leading by example, Nick and Vicky have scaled up practices to create a culture of data sharing, reproducibility, and open-source advocacy on campus.
